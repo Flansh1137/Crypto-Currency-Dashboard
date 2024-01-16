@@ -7,44 +7,8 @@ Create the main Dashboard component and its include in App.js.
 Create other components like Search bar, MarketCapList,CryptoChart, PortFolio,ExchangeCoin these all component import in Dashboard component.
 
 
-## Documentation
-Framework/dependencies:-https://reactjs.org/
-ReactJS:-https://reactjs.org/
-
-react-redux:-https://react-redux.js.org/
-
-redux-thunk:-https://github.com/reduxjs/redux-thunk
-
-Chart.js:-https://www.chartjs.org/
-
-react-chartjs-2:-https://react-chartjs-2.js.org/
-
-TailwindCSS:-https://tailwindcss.com/
-
-Coingecko API:-https://www.coingecko.com/en/api/documentation
-## Authors
-
-
 ## Project Link
-
-
-
-## Documentation
-
-Framework/dependencies:-https://reactjs.org/
-ReactJS:-https://reactjs.org/
-
-react-redux:-https://react-redux.js.org/
-
-redux-thunk:-https://github.com/reduxjs/redux-thunk
-
-Chart.js:-https://www.chartjs.org/
-
-react-chartjs-2:-https://react-chartjs-2.js.org/
-
-TailwindCSS:-https://tailwindcss.com/
-
-Coingecko API:-https://www.coingecko.com/en/api/documentation
+https://cryptocurrency-dashboard-one.vercel.app/
 
 
 ## Features
@@ -74,7 +38,7 @@ npm add react-chartjs-2 chart.js
 npm i react-chartjs-2 chart.js
 
 # Hi, I'm Praveen Kumar Chauhan! 👋
-https://github.com/Praveen-2022
+https://github.com/Flansh1137
 
 
 ## 🚀 About Me
