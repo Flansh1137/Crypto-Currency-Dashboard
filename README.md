@@ -37,7 +37,7 @@ npm add react-chartjs-2 chart.js
 # or
 npm i react-chartjs-2 chart.js
 
-# Hi, I'm Praveen Kumar Chauhan! 👋
+# Hi, I'm Flansh Gajbhiye! 👋
 https://github.com/Flansh1137
 
 
