@@ -1,54 +1,65 @@
+# Crypto Currency Dashboard 📊
 
-# Crypto Currency Dashboard
-Created a new project with create-react-app and get rid of the boilerplate. Create the basic structure of dashboard using Css Grid and Flexbox and setup TailwindCSS using npm and pull the data from Coingecko API- https://www.coingecko.com/en/api/documentation.This dashboard provides information about your favourite Crypto Currencies, their trends and past prices in the form of a well organised graph including Line Chart as well as Bar Charts.
-Install Redux, react-redux, redux-thunk Chart.js and react-chartjs-2 using npm
-Components:-
-Create the main Dashboard component and its include in App.js. 
-Create other components like Search bar, MarketCapList,CryptoChart, PortFolio,ExchangeCoin these all component import in Dashboard component.
+A **modern, responsive cryptocurrency dashboard** built using **React, Redux, Tailwind CSS, and Chart.js**, designed to visualize real-time crypto market data with clean architecture and scalable components.
 
+This project demonstrates **production-style frontend engineering**, data visualization, and state management used in real-world **Full-Stack / MERN applications**.
 
-## Project Link
-https://cryptocurrency-dashboard-one.vercel.app/
+---
 
+## 🚀 Live Demo
 
-## Features
+🔗 https://cryptocurrency-dashboard-one.vercel.app/
 
-Search crypto currency by search bar
-Convert currency value one to another
-Comparison between two crypto currency
-Live previews
-Chart types to choose from
-Duration buttons allows you to choose from multiple duration timelines
-Sidebar indicates profit/loss percentage on 24 hour basis
-Crypto Exchange: allows users to convert different crypto currencies into other currencies
-Shows major currency portfolio in pie chart
-Responsive
+---
 
-## Installation
-Install my-project with npm
+## 🛠 Tech Stack
 
-npm install Cryptocurrency-Dashboard
-cd Cryptocurrency-Dashboard
-npm install react-redux
-# or
-npm add react-redux
-npm install axios
-npm add react-chartjs-2 chart.js
-# or
-npm i react-chartjs-2 chart.js
+- React (Create React App)
+- Redux, React-Redux, Redux Thunk
+- Tailwind CSS
+- Chart.js & react-chartjs-2
+- Axios
+- CSS Grid & Flexbox
+- CoinGecko Public API
 
-# Hi, I'm Flansh Gajbhiye! 👋
-https://github.com/Flansh1137
+---
 
+## 📌 Key Features
 
-## 🚀 About Me
-I'm a full stack developer...
+- 🔍 Search cryptocurrencies in real time  
+- 📈 Line & Bar charts for price trends  
+- ⏱ Multiple timeline filters (1D, 1W, 1M, etc.)  
+- 💱 Crypto-to-crypto currency conversion  
+- 🔄 Compare two cryptocurrencies  
+- 📊 Portfolio allocation using Pie Chart  
+- 📉 24-hour profit/loss indicators  
+- 💼 Exchange simulation between currencies  
+- 📱 Fully responsive dashboard UI  
 
+---
 
-## 🛠 Skills
-React, Redux , Tailwind,DOM,Javascript, HTML, CSS...
+## 📊 Data Source
 
+All market data is fetched from the **CoinGecko API**  
+🔗 https://www.coingecko.com/en/api/documentation
 
+---
 
+## 🧩 Application Architecture
 
+### Main Components
+
+- `Dashboard` – Core container component
+- `SearchBar` – Crypto search functionality
+- `MarketCapList` – Market cap–based listing
+- `CryptoChart` – Line & Bar charts
+- `Portfolio` – Pie chart portfolio distribution
+- `ExchangeCoin` – Currency exchange simulation
+- `Sidebar` – Market overview and profit/loss indicators
+
+All components are **modular, reusable, and scalable**.
+
+---
+
+## 📁 Folder Structure (Simplified)
 
