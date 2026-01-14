@@ -63,3 +63,58 @@ All components are **modular, reusable, and scalable**.
 
 ## 📁 Folder Structure (Simplified)
 
+src/
+├── components/
+│ ├── Dashboard/
+│ ├── SearchBar/
+│ ├── CryptoChart/
+│ ├── MarketCapList/
+│ ├── Portfolio/
+│ └── ExchangeCoin/
+├── redux/
+│ ├── actions/
+│ ├── reducers/
+│ └── store.js
+├── services/
+│ └── api.js
+├── styles/
+├── App.js
+└── index.js
+
+yaml
+Copy code
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/Flansh1137/cryptocurrency-dashboard.git
+cd cryptocurrency-dashboard
+npm install
+npm start
+Required Packages (if installing manually)
+bash
+Copy code
+npm install react-redux redux redux-thunk axios
+npm install react-chartjs-2 chart.js
+npm install tailwindcss postcss autoprefixer
+🎯 What This Project Demonstrates
+Real-world dashboard architecture
+
+Data-heavy UI with state management
+
+Clean separation of concerns
+
+Scalable component-based design
+
+Strong foundation for MERN / Full-Stack roles
+
+👨‍💻 Author
+Flansh Gajbhiye
+Full-Stack / MERN Developer
+
+🔗 GitHub: https://github.com/Flansh1137
+🔗 LinkedIn: (add your LinkedIn URL)
